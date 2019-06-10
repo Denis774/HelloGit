@@ -1,6 +1,6 @@
 # Denis Ahimbisibwe
 
-MyGithub (https://github.com/Denis774/HelloGit)
+[MyGithub](https://github.com/Denis774/HelloGit)
 
 ## Education
 
